@@ -1,7 +1,6 @@
 # Architect-Website
-A simple architecture project
 
-Here is a simple arcitecture project. 
+Here is a simple arcitecture project I created in a couple of days.
 
 The main goal of this was to familiarize/ recap myself with the fundamentals of front end development.
 
